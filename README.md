@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wojciech Powroźnik
+- 👋 Hi, I’m Wojciech
 - 👀 I’m interested in programing and sport 
 - 🌱 I’m currently learning node.js, express, JS
 
