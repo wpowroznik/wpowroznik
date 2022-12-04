@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojciech Powroźnik
-- 👀 I’m interested in programing, sport and playing games
-- 🌱 I’m currently learning Laravel, Vue 3
+- 👀 I’m interested in programing and sport 
+- 🌱 I’m currently learning node.js, express, JS
 
 <!---
 wpowroznik/wpowroznik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
